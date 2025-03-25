@@ -96,6 +96,7 @@ export default function LandingPage() {
             className="text-center text-white px-4"
           >
             <h1 className="text-5xl md:text-6xl font-bold mb-4">Welcome to Spring Coffee</h1>
+            
             <p className="text-xl md:text-2xl mb-8">Brewing perfection in every cup</p>
             <motion.button
               whileHover={{ scale: 1.05 }}
